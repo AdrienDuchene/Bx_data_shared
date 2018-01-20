@@ -40,12 +40,12 @@ cabal install HDBC-mysql
 To install our project you have to clone the Git repository as follow
 
 ```
-git clone https://github.com/qlombat/duduloma.git
+git clone https://github.com/AdrienDuchene/Bx_data_shared
 ```
 
 The useful code to run example is in the following directory
 ```
-cd duduloma/Using/Example
+cd Bx_data_shared/Example
 ```
 
 ### Using
