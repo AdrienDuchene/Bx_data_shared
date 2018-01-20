@@ -1,4 +1,4 @@
-# Databases synchronization using bidirectional transformations and peer-to-peer system
+# Lightweight Data Sharing System based on Bidirectional Transformations
 
 ## Getting Started
 
